@@ -2,7 +2,7 @@ version: '2'
 
 services:
   geokrety-static:
-    image: nginx
+    image: jrelva/nginx-autoindex:latest
     ports:
      - 8001:80
     volumes:
