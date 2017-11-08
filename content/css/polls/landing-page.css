@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  padding: 50px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+body {
+  font: 20px Helvetica, sans-serif;
+  color: #333;
+}
+
+article {
+  display: block;
+  text-align: left;
+  width: 650px;
+  margin: 0 auto;
+}
+
+a {
+  color: #477742;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #004d04;
+  text-decoration: none;
+}
+
+.poll {
+  border-radius: 6px;
+  border: 1px solid #575757;
+  background-color: #eee;
+  padding: 0rem 1rem 1rem 1rem;
+  margin-bottom: 5rem;
+}
+
+.active {
+  border: 1px solid #477742;
+}

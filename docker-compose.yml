@@ -1,0 +1,20 @@
+version: '2'
+
+services:
+  geokrety-static:
+    image: nginx
+    ports:
+     - 8001:80
+    volumes:
+      - ./content:/usr/share/nginx/html
+    labels:
+      - "traefik.enable=true"
+      - "traefik.frontend.rule=Host:cdn.geokrety.org,cdn.geokrety.kumy.org"
+      - "traefik.docker.network=srv_geokrety-front"
+#     networks:
+#       - front
+#
+# networks:
+#   front:
+#     external:
+#       name: srv_geokrety-front
