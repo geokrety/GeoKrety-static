@@ -7,6 +7,9 @@ services:
      - 8002:80
     volumes:
       - ./content:/usr/share/nginx/html
+      - ../GEOKRETY-LEGACY-PROD/vars/obrazki:/usr/share/nginx/html/images/obrazki:ro
+      - ../GEOKRETY-LEGACY-PROD/vars/obrazki-male:/usr/share/nginx/html/images/obrazki-male:ro
+      - ../GEOKRETY-LEGACY-PROD/vars/statpics:/usr/share/nginx/html/images/statpics:ro
     labels:
       - "traefik.enable=true"
       - "traefik.frontend.rule=Host:cdn.geokrety.org,cdn.geokrety.kumy.org"
