@@ -1,0 +1,86 @@
+#banner-lewo {
+		float:left;
+		width:100%;
+		background:#fff;
+		vertical-align: middle;
+		}
+
+#banner-prawo {
+		background:#fff;
+		font-size: 20pt;
+		}
+
+#lewo {
+		width: 100%;
+		background:#fff;
+		}
+
+
+#prawo {
+		width:100%;
+		background:#eee;
+		}
+
+#menu {
+		width:100%;
+		background:#a7d940;
+		}
+
+.cyferki { color: white; background:#808080;}
+
+#footnote {
+	  float:left;
+		width:100%;
+		background:#fff;
+		text-align: center;
+		font-size: 9pt; color: Silver;
+		}
+
+.gmapa { width: 100%; height: 200px;}
+
+
+body, .male, .bardzomale, h1, h2, h3, td {font-family: Verdana, Arial, Helvetica, sans-serif;}
+body, td {font-size: 10pt; color: #000000;text-decoration: none;}
+
+A:link, A:visited, A:hover { text-decoration: none;}
+A:hover { text-decoration: none; color: White; background-color: #a7d940;}
+
+
+  h1 {  font-size: 18pt;}
+  .male  {  font-size: 9pt; color: Silver;}
+	.bardzomale {  font-size: 8pt;}
+  .szare { color: Silver;}
+	.flagi { background: #eeeeee; padding: 6px; }
+	#wynikNr, #wynikWpt { font-size: 10pt; padding: 10px; margin: 7px; text-decoration: none}
+	.warning { color: #ff0000;}
+	.rozdzial, h2 { color: #000000; font-size: 13pt; padding-top:10px; padding-bottom:5px; border-bottom: 1px solid #000000; text-decoration: none;}
+
+  TABLE  {width: 100%; }
+  td {vertical-align: top;
+			background-color: #eeeeee;
+			padding-bottom: 3px;}
+	td.white { background-color: #ffffff;	vertical-align: middle;}
+	td.szarawe {background-color: #eaeaea; vertical-align: middle;}
+	td.srodek {text-align: center; vertical-align: top;}
+
+  th {background-color: #cccccc;}
+
+	.heading1 {
+		background-color: #e5e5e5;
+		height:25px;
+		vertical-align : middle;
+		padding-left:5px; padding-right:5px;}
+	.heading1 img { vertical-align : middle; }
+
+	.user {background-color: #e5e5e5;}
+
+	.nius {border-left: 10px solid  #a7d940; padding-left: 10px; background-color: #e5e5e5; font-weight: bold;}
+
+
+	ul li {padding-bottom: 10px;}
+
+.obrazek { border:solid 1px silver; padding:5px;
+	margin-right:10px; float:right; width:102px;
+	height: 147px; font-size: 8pt;
+	margin-bottom: 2px;}
+

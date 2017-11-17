@@ -1,0 +1,25 @@
+<style type="text/css">
+body, td, bardzomale {font-family: Verdana, Arial, Helvetica, sans-serif; }
+body,table {font-size: 10pt; color: #000000; text-decoration: none; }
+table {width: 100%; }
+td {border-bottom: 1px solid #ffffff;vertical-align: top;background-color: #eeeeee; }
+tr.mg0 td {background-color: #e7e7e7; vertical-align: middle;} /*my geokrety - simor*/
+tr.mg1 td {vertical-align: middle;} /*my geokrety - simor*/
+table.rm_padded td {padding-left:3px; padding-right:3px;}
+th {background-color: #cccccc;}
+A:link, A:visited, A:hover { text-decoration: none; }
+A:hover { color: White; background-color: #a7d940; }
+A.bold { font-weight: bold; text-decoration: none; }
+.szare { color: #aaaaaa;}
+.rozdzial, h2 { color: #000000; font-size: 13pt; padding-top:10px; padding-bottom:5px; border-bottom: 1px solid #000000; text-decoration: none; margin:5px 0}
+.bardzomale, .xs { font-size: 8pt; }
+.news_title {border-left: 10px solid  #a7d940; padding: 0 10px 0 10px; background-color: #d7d7d7; font-weight: bold;}
+.news_body {clear:both; border: 1px solid  #d7d7d7; padding: 0.5em; margin-bottom:1em;}
+.alignleft50 {float:left; min-width: 30%; text-align: left;}
+.alignright50 {float:right; min-width: 30%; text-align: right;}
+.comment_title{border: 1px solid  #d7d7d7; padding: 0.25em; }
+.comment_body{clear:both; padding: 0.5em 1.5em; margin-bottom:0.5em;}
+img.textalign { vertical-align:middle; }
+img.textalign10 { padding-bottom:2px;vertical-align:middle; }
+img.textalign16 { padding-bottom:4px;vertical-align:middle; }
+</style>
