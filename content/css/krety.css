@@ -312,7 +312,7 @@ padding-left: 10px;
 
 }
 
-ul.flagi img {background-image: url('/images/icons/flag_sprite.png?ver=2'); width: 16px; height: 11px; border:0px; font-size: 8pt;}
+ul.flagi img {background-image: url('/images/sprites/flag_sprite.png?ver=2'); width: 16px; height: 11px; border:0px; font-size: 8pt;}
 ul.flagi A:hover { background-color: transparent;}
 .flag-al {background-position:0 0;}
 .flag-bg {background-position:-17px 0;}
@@ -342,7 +342,7 @@ ul.flagi A:hover { background-color: transparent;}
 .flag-ua {background-position:-425px 0;}
 .flag-nl {background-position:-442px 0;}
 
-ul.spritemenu img {background-image: url('/images/icons/menu_sprite.png?ver=1'); width: 16px; height: 16px; border:0px; }
+ul.spritemenu img {background-image: url('/images/sprites/menu_sprite.png?ver=1'); width: 16px; height: 16px; border:0px; }
 .menu-add {background-position:0 0;}
 .menu-adduser {background-position:-17px 0;}
 .menu-code {background-position:-34px 0;}
