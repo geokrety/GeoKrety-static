@@ -11,6 +11,9 @@ services:
       - ../GEOKRETY-LEGACY-PROD/vars/obrazki-male:/usr/share/nginx/html/images/obrazki-male:ro
       - ../GEOKRETY-LEGACY-PROD/vars/statpics:/usr/share/nginx/html/images/statpics:ro
       - ../GEOKRETY-LEGACY-PROD/vars/templates/wykresy:/usr/share/nginx/html/images/wykresy:ro
+      - ../GEOKRETY-LEGACY-PROD/vars/mapki/csv:/usr/share/nginx/html/maps/csv:ro
+      - ../GEOKRETY-LEGACY-PROD/vars/mapki/gpx:/usr/share/nginx/html/maps/gpx:ro
+      - ../GEOKRETY-LEGACY-PROD/vars/mapki/map:/usr/share/nginx/html/maps/map:ro
     labels:
       - "traefik.enable=true"
       - "traefik.frontend.rule=Host:cdn.geokrety.org,cdn.geokrety.kumy.org"
