@@ -203,25 +203,25 @@ img.textalign16 {padding-bottom:4px;vertical-align:middle;}
 ul li {padding-bottom: 10px;}
 
 .obrazek { border:solid 1px silver; padding:5px;
-	margin-left:6px; float:left; width:100px;
-	height: 147px; font-size: 8pt;
+	margin-left:6px; float:left; width:112px;
+	height: 159px; font-size: 8pt;
 	margin-bottom: 6px;}
 
 /*highlighted version*/
 .obrazek_hi { border:solid 2px #a7d940; padding:4px;
-	margin-left:6px; float:left; width:100px;
-	height: 147px; font-size: 8pt;
+	margin-left:6px; float:left; width:112px;
+	height: 159px; font-size: 8pt;
 	margin-bottom: 6px;}
 #obrazek_box { /*margin-right: 5px;*/ float: right;}
 
 /*obrazek2 - geokret_gallery*/
 .obrazek2 { border:solid 1px silver; padding:5px;
-	margin-left:6px; float:left; width:100px;
-	height: 163px; font-size: 8pt;
+	margin-left:6px; float:left; width:112px;
+	height: 175px; font-size: 8pt;
 	margin-bottom: 6px;}
 .obrazek2_hi { border:solid 2px #a7d940; padding:4px;
-	margin-left:6px; float:left; width:100px;
-	height: 163px; font-size: 8pt;
+	margin-left:6px; float:left; width:112px;
+	height: 175px; font-size: 8pt;
 	margin-bottom: 6px;}
 
 .gmapa { width: 100%; height: 400px;}
