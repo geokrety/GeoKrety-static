@@ -188,8 +188,8 @@ padding: 3px;
 .heading1 img { vertical-align : middle; }
 .tresc1 {padding-left:36px; padding-right:5px;}
 img.textalign {vertical-align:middle;}
-img.textalign10 {padding-bottom:2px;vertical-align:middle;}
-img.textalign16 {padding-bottom:4px;vertical-align:middle;}
+img.textalign10 {vertical-align:middle;}
+img.textalign16 {vertical-align:middle;}
 
 
 .userA {font-style:italic; color: #999;}
