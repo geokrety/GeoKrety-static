@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="noparking.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>PARKING</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="0.472"
+     inkscape:cx="380.83604"
+     inkscape:cy="46.033418"
+     inkscape:window-x="1985"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title2">PARKING</title>
+  <rect
+     x="50"
+     y="50"
+     width="400"
+     height="400"
+     rx="32"
+     ry="32"
+     stroke="NONE"
+     fill="#103be7"
+     id="rect4" />
+  <path
+     d="M 130,98 V 402 H 194 V 306 H 286 A 84 84 0 0 0 370,222 V 174 A 84 84 0 0 0 286,98 Z M 194,162 H 258 A 48 32 0 0 1 306,194 V 210 A 48 32 0 0 1 258,242 H 194 Z"
+     stroke="none"
+     fill="white"
+     fill-rule="evenodd"
+     id="path6" />
+  <path
+     style="fill:#ff0000;fill-opacity:1"
+     d="M 396.06836 50 L 50 396.06836 L 50 418 C 50 435.728 64.272 450 82 450 L 103.93164 450 L 450 103.93164 L 450 82 C 450 64.272 435.728 50 418 50 L 396.06836 50 z "
+     id="rect3705" />
+</svg>
