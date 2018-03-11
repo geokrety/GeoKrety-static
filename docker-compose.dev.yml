@@ -3,6 +3,8 @@ version: '2'
 services:
   geokrety-static:
     image: jrelva/nginx-autoindex:latest
+    ports:
+     - 8002:80
     volumes:
       - ./content:/usr/share/nginx/html:ro
       - ../GEOKRETY-LEGACY-PROD/vars/obrazki:/usr/share/nginx/html/images/obrazki:ro
@@ -16,11 +18,10 @@ services:
       - "traefik.enable=true"
       - "traefik.frontend.rule=Host:cdn.geokrety.org,cdn.geokrety.kumy.org"
       - "traefik.docker.network=srv_geokrety-front"
-    networks:
-      - front
-    restart: unless-stopped
-
-networks:
-  front:
-    external:
-      name: srv_geokrety-front
+#     networks:
+#       - front
+#
+# networks:
+#   front:
+#     external:
+#       name: srv_geokrety-front
