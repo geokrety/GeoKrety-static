@@ -12,6 +12,7 @@ services:
       - ../GEOKRETY-LEGACY-PROD/vars/mapki/csv:/usr/share/nginx/html/maps/csv:ro
       - ../GEOKRETY-LEGACY-PROD/vars/mapki/gpx:/usr/share/nginx/html/maps/gpx:ro
       - ../GEOKRETY-LEGACY-PROD/vars/mapki/map:/usr/share/nginx/html/maps/map:ro
+      - ../GEOKRETY-LEGACY-PROD/vars/rzeczy/xml/:/usr/share/nginx/html/exports:ro
     labels:
       - "traefik.enable=true"
       - "traefik.frontend.rule=Host:cdn.geokrety.org,cdn.geokrety.kumy.org"
