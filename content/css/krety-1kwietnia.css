@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body {
-    background: url('/templates/logo/1kwietnia/zyrafa.png') right top no-repeat, url('/templates/logo/1kwietnia/tlo.png') left top repeat;
+    background: url('/images/1april/zyrafa.png') right top no-repeat, url('/images/1april/tlo.png') left top repeat;
 }
 
 #top {margin-left:5px;
