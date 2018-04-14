@@ -4,6 +4,7 @@ services:
   geokrety-static:
     image: jrelva/nginx-autoindex:latest
     volumes:
+      - ./default.conf:/etc/nginx/conf.d/default.conf:ro
       - ./content:/usr/share/nginx/html:ro
       - ../GEOKRETY-LEGACY-PROD/vars/obrazki:/usr/share/nginx/html/images/obrazki:ro
       - ../GEOKRETY-LEGACY-PROD/vars/obrazki-male:/usr/share/nginx/html/images/obrazki-male:ro
