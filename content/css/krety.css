@@ -68,9 +68,7 @@ div.pull-right .badge {
 		font-size: 9pt; color: Silver;
 		}
 
-body, .male, .bardzomale, h1, h2, h3, td {font-family: 'Oxygen', Verdana, Geneva, Arial, Helvetica, sans-serif;}
 h1 {  font-size: 22pt;}
-body, td {font-size: 10pt; color: #000000;text-decoration: none;}
 
 A:link, A:visited, A:hover { text-decoration: none;}
 A:hover { text-decoration: none; color: White; background-color: #a7d940;}
