@@ -81,6 +81,7 @@ A.bold { font-weight: bold; text-decoration: none;}
 #wynikNr, #wynikWpt { font-size: 10pt; /*padding: 10px; margin: 7px; */text-decoration: none}
 .warning { color: #ff0000;}
 .rozdzial, h2 { color: #000000; font-size: 13pt; padding-top:10px; padding-bottom:5px; border-bottom: 1px solid #000000; text-decoration: none;}
+.wsnowrap { white-space: nowrap; }
 
 TABLE  {width: 100%; }
 td {vertical-align: top;
