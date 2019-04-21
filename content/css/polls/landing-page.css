@@ -3,6 +3,10 @@ body {
   color: #333;
 }
 
+div.container {
+  color: #333;
+}
+
 article {
   display: block;
   text-align: left;
