@@ -55,6 +55,14 @@ div.pull-right .badge {
 		background:#eee;
 		}
 
+#contrib {
+                float:left;
+                width: 10%;
+                background:#fff;
+                margin-right:2px;
+                margin-top:4px;
+                }
+
 .cyferki { color: white; background:#808080; padding-left: 10px; padding-right: 10px;}
 
 #footnote {
